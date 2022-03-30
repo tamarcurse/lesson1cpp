@@ -1,0 +1,2 @@
+C:\Users\HOME\Documents\irox\c++\lesson2-tamar\Debug\lesson2-tamar.exe
+C:\Users\HOME\Documents\irox\c++\lesson2-tamar\Debug\lesson2-tamar.pdb
